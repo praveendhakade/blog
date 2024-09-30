@@ -4,4 +4,4 @@ This is a follow along project from Learn NextJS 14 from the ground up and build
 
 ## Deployed on Vercel
 
-    Check out the app [here](https://blog-phi-amber-37.vercel.app/posts/getting-started-with-nextjs).
+Check out the app [here](https://blog-phi-amber-37.vercel.app/posts/getting-started-with-nextjs).
